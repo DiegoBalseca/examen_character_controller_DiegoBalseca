@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "CharacterExam.sln"
+    "dotnet.defaultSolution": "examen_character_controller_DiegoBalseca.sln"
 }
